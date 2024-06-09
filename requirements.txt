@@ -1,0 +1,6 @@
+kfp==1.8.22
+ipykernel==6.29.4
+pandas
+scikit-learn
+docker==7.1.0
+optuna
